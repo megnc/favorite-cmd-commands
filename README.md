@@ -1,7 +1,7 @@
 # favorite-cmd-commands
 ## bash commands
 **pwd**
-*print the current working directory
+*print the current working directory*
 **cd** 
 *navigate between directories on your computer
 **mkdir**
